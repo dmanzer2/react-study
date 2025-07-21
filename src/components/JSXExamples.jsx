@@ -61,7 +61,7 @@ const JSXExamples = () => {
             style={{ border: '2px solid #007bff', padding: '8px' }}
           />
           <img 
-            src="https://via.placeholder.com/100x100?text=JSX" 
+            src="https://placehold.co/40" 
             alt="JSX Example"
             style={{ marginLeft: '10px', borderRadius: '8px' }}
           />
