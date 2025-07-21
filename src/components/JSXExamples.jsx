@@ -51,9 +51,10 @@ const JSXExamples = () => {
       </div>
 
       <div className="example-section">
-        <h3>🏷️ JSX Attributes</h3>
+        <h3 htmlFor="nameInput">🏷️ JSX Attributes</h3>
         <div className="code-example">
           <input 
+            id="nameInput"
             type="text" 
             placeholder="Enter your name..."
             className="demo-input"
